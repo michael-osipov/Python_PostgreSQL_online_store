@@ -35,4 +35,4 @@ venv.bak/
 Thumbs.db
 
 # БД проекта
-dump.sql
+!dump.sql
