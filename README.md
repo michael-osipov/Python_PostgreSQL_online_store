@@ -40,10 +40,10 @@
     python -m venv venv
     
     ```bash```
-    .\venv\Scripts\Activate  — Для Windows
+    .\venv\Scripts\Activate  # Для Windows
     
     ```bash```
-    source venv/bin/activate  — Для Linux/Mac
+    source venv/bin/activate  # Для Linux/Mac
   
 4. Установите зависимости:
     
