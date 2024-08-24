@@ -30,14 +30,15 @@
 
     ```bash```
     git clone https://github.com/ваш_пользователь/online_store.git
+   ```bash```
     cd online_store
 
-2. **Создайте и активируйте виртуальное окружение:**
+3. **Создайте и активируйте виртуальное окружение:**
     python -m venv venv
     .\venv\Scripts\Activate  # Для Windows
     # source venv/bin/activate  # Для Linux/Mac
   
-3. Установите зависимости:
+4. Установите зависимости:
     pip install -r requirements.txt
    
 5. Настройте базу данных:
