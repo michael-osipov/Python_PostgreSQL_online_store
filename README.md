@@ -30,26 +30,40 @@
 
     ```bash```
     git clone https://github.com/ваш_пользователь/online_store.git
-   ```bash```
+    
+    ```bash```
     cd online_store
 
-3. **Создайте и активируйте виртуальное окружение:**
+2. **Создайте и активируйте виртуальное окружение:**
+
+    ```bash```
     python -m venv venv
-    .\venv\Scripts\Activate  # Для Windows
-    # source venv/bin/activate  # Для Linux/Mac
+    
+    ```bash```
+    .\venv\Scripts\Activate  — Для Windows
+    
+    ```bash```
+    source venv/bin/activate  — Для Linux/Mac
   
 4. Установите зависимости:
+    
+    ```bash```
     pip install -r requirements.txt
    
 5. Настройте базу данных:
-    Убедитесь, что у вас установлен PostgreSQL и создана база данных. Обновите настройки базы данных в файле online_store/settings.py.
+Убедитесь, что у вас установлен PostgreSQL и создана база данных. Обновите настройки базы данных в файле online_store/settings.py.
 
-7. Примените миграции:
+6. Примените миграции:
+
+    ```bash```
     python manage.py migrate
 
-8. Запустите сервер:
+7. Запустите сервер:
+
+    ```bash```    
     python manage.py runserver
-    Теперь вы можете открыть приложение в браузере по адресу http://127.0.0.1:8000.
+
+Теперь вы можете открыть приложение в браузере по адресу http://127.0.0.1:8000.
    
 ## Использование
 
