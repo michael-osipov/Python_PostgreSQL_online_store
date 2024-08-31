@@ -37,8 +37,8 @@
 
     ```bash
     python -m venv venv
-    .\venv\Scripts\Activate  # For Windows
-    source venv/bin/activate  # For Linux/Mac
+    .\venv\Scripts\Activate  # Для Windows
+    source venv/bin/activate  # Для Linux/Mac
     ```
   
 4. Установите зависимости:
