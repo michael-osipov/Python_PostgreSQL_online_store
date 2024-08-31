@@ -1,4 +1,4 @@
-# Online Store — RU / [EN](README_en.md)
+# Online Store — [ RU ] [ [EN](README_en.md) ]
 
 Это проект интернет-магазина, разработанный с использованием Django и PostgreSQL. Он включает в себя функционал для управления отделами и товарами.
 
