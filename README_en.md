@@ -1,4 +1,4 @@
-# Online Store
+# Online Store — [ [RU](README.md) ] [ EN ]
 
 This is an online store project developed using Django and PostgreSQL. It includes functionality for managing departments and products.
 
